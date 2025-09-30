@@ -1,0 +1,33 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_color.c.obj: \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_color.c \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_color.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../lv_conf_internal.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_assert.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_log.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_types.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/features.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_newlib_version.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/bits/posix_opt.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include-fixed/limits.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stddef.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdbool.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/inttypes.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/newlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/lv_mem.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/lv_string.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_math.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_palette.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_color_op.h

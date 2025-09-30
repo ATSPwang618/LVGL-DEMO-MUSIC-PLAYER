@@ -1,0 +1,28 @@
+lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_draw_vg_lite_fill.c.obj: \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/lv_draw_vg_lite_fill.c \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_area_private.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_area.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/../lv_conf_internal.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_types.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/features.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_newlib_version.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/bits/posix_opt.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include-fixed/limits.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stddef.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdbool.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/inttypes.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/newlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_math.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/lv_draw_vg_lite.h \
+ /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../lv_conf_internal.h

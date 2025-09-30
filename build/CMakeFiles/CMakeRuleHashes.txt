@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+db7e0c34efdf0c04f2e64cd118fd6c6d CMakeFiles/lvgldemo-widget-velf
+bd5557da261a12cdc689106093905a9e CMakeFiles/lvgldemo-widget.self-self
+5c2c6ed7babf91e73aefc67f9d3429a7 CMakeFiles/lvgldemo-widget.vpk-vpk
+1fde57c82bb0f12afb84eddb103ade95 lvgldemo-widget.self.out
+a8f4acddc5be6b3f63a35db7185b66c7 lvgldemo-widget.vpk.out
+25a89f90efed09233b19da5fed86b2f7 lvgldemo-widget.vpk_param.sfo
+f4cf7c0c7a98771c867f4bf48bf2770c lvgldemo.self.out
+dac80d9e17ee3f7943f58f5a5a9e204f lvgldemo.vpk.out
+98d51c7e4bbc4b831ca432445d3ff4d6 lvgldemo.vpk_param.sfo
