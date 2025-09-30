@@ -1,9 +1,9 @@
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tree.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_tree.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_tree.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_tree.c \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_tree.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -22,10 +22,10 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_tree.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_assert.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_log.h
+ /home/lb/psv_lvgl9/lvgl/src/misc/../stdlib/lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_assert.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_log.h

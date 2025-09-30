@@ -1,10 +1,10 @@
 lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_draw_vg_lite_line.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/lv_draw_vg_lite_line.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_area_private.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_area.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/lv_draw_vg_lite_line.c \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/../../misc/lv_area_private.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/../../misc/lv_area.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/../../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/../../misc/lv_types.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -23,6 +23,6 @@ lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_draw_vg_lite_line.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../misc/lv_math.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/lv_draw_vg_lite.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/vg_lite/../../lv_conf_internal.h
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/../../misc/lv_math.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/lv_draw_vg_lite.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/vg_lite/../../lv_conf_internal.h

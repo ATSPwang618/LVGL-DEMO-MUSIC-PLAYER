@@ -1,9 +1,9 @@
 lvgl/CMakeFiles/lvgl.dir/src/misc/lv_utils.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_utils.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_utils.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_utils.c \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_utils.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -22,39 +22,39 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/lv_utils.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/lv_draw_buf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_area.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_math.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_color.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_assert.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_log.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/../stdlib/lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/../stdlib/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_palette.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_color.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../misc/lv_color_op.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/lv_image_dsc.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/../draw/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/lv_fs.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/lv_cache.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/../lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/lv_cache_entry.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/lv_cache_class.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/lv_cache_lru_rb.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../lv_cache_private.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/lv_os_none.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/lv_cache_lru_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/instance/lv_cache_instance.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/instance/lv_image_header_cache.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/instance/../../lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/instance/lv_image_cache.h
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/lv_draw_buf.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_area.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_math.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_color.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_assert.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_log.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/../stdlib/lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/../stdlib/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_palette.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_color.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../misc/lv_color_op.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/lv_image_dsc.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/../draw/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/lv_fs.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/lv_cache.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/../lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/lv_cache_entry.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/lv_cache_class.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/lv_cache_lru_rb.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../lv_cache_private.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/lv_os_none.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/lv_cache_lru_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/instance/lv_cache_instance.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/instance/lv_image_header_cache.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/instance/../../lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/instance/lv_image_cache.h

@@ -1,10 +1,10 @@
 lvgl/CMakeFiles/lvgl.dir/src/osal/lv_sdl2.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/osal/lv_sdl2.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/osal/lv_os.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/osal/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/osal/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/osal/../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/osal/lv_sdl2.c \
+ /home/lb/psv_lvgl9/lvgl/src/osal/lv_os.h \
+ /home/lb/psv_lvgl9/lvgl/src/osal/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/osal/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/osal/../misc/../lv_conf_internal.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -23,4 +23,4 @@ lvgl/CMakeFiles/lvgl.dir/src/osal/lv_sdl2.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/osal/lv_os_none.h
+ /home/lb/psv_lvgl9/lvgl/src/osal/lv_os_none.h

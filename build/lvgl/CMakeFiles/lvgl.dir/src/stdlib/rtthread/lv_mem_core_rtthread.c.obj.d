@@ -1,11 +1,11 @@
 lvgl/CMakeFiles/lvgl.dir/src/stdlib/rtthread/lv_mem_core_rtthread.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/rtthread/lv_mem_core_rtthread.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/rtthread/../lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/rtthread/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/rtthread/../lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/rtthread/../../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/rtthread/../../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/rtthread/lv_mem_core_rtthread.c \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/rtthread/../lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/rtthread/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/rtthread/../lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/rtthread/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/rtthread/../../misc/../lv_conf_internal.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \

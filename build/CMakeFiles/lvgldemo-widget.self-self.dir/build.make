@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lb/vdpm/samples/sdl2/LVGL9
+CMAKE_SOURCE_DIR = /home/lb/psv_lvgl9
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lb/vdpm/samples/sdl2/LVGL9/build
+CMAKE_BINARY_DIR = /home/lb/psv_lvgl9/build
 
 # Utility rule file for lvgldemo-widget.self-self.
 
@@ -67,11 +67,11 @@ include CMakeFiles/lvgldemo-widget.self-self.dir/compiler_depend.make
 include CMakeFiles/lvgldemo-widget.self-self.dir/progress.make
 
 CMakeFiles/lvgldemo-widget.self-self: lvgldemo-widget.self.out
-	/usr/bin/cmake -E copy /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.self.out lvgldemo-widget.self
+	/usr/bin/cmake -E copy /home/lb/psv_lvgl9/build/lvgldemo-widget.self.out lvgldemo-widget.self
 
 lvgldemo-widget.self.out: lvgldemo-widget.velf
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Creating SELF lvgldemo-widget.self"
-	/usr/local/vitasdk/bin/vita-make-fself -c -s /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.velf /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.self.out
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Creating SELF lvgldemo-widget.self"
+	/usr/local/vitasdk/bin/vita-make-fself -c -s /home/lb/psv_lvgl9/build/lvgldemo-widget.velf /home/lb/psv_lvgl9/build/lvgldemo-widget.self.out
 
 lvgldemo-widget.self-self: CMakeFiles/lvgldemo-widget.self-self
 lvgldemo-widget.self-self: lvgldemo-widget.self.out
@@ -87,6 +87,6 @@ CMakeFiles/lvgldemo-widget.self-self.dir/clean:
 .PHONY : CMakeFiles/lvgldemo-widget.self-self.dir/clean
 
 CMakeFiles/lvgldemo-widget.self-self.dir/depend:
-	cd /home/lb/vdpm/samples/sdl2/LVGL9/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lb/vdpm/samples/sdl2/LVGL9 /home/lb/vdpm/samples/sdl2/LVGL9 /home/lb/vdpm/samples/sdl2/LVGL9/build /home/lb/vdpm/samples/sdl2/LVGL9/build /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles/lvgldemo-widget.self-self.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/lb/psv_lvgl9/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lb/psv_lvgl9 /home/lb/psv_lvgl9 /home/lb/psv_lvgl9/build /home/lb/psv_lvgl9/build /home/lb/psv_lvgl9/build/CMakeFiles/lvgldemo-widget.self-self.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/lvgldemo-widget.self-self.dir/depend
 

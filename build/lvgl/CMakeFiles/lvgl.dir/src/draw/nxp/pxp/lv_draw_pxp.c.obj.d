@@ -1,5 +1,5 @@
 lvgl/CMakeFiles/lvgl.dir/src/draw/nxp/pxp/lv_draw_pxp.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/nxp/pxp/lv_draw_pxp.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/draw/nxp/pxp/../../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h
+ /home/lb/psv_lvgl9/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c \
+ /home/lb/psv_lvgl9/lvgl/src/draw/nxp/pxp/lv_draw_pxp.h \
+ /home/lb/psv_lvgl9/lvgl/src/draw/nxp/pxp/../../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h

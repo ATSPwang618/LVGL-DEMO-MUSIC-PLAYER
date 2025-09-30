@@ -1,12 +1,12 @@
 lvgl/CMakeFiles/lvgl.dir/src/stdlib/builtin/lv_tlsf.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/lv_tlsf.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/lv_tlsf_private.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/lv_tlsf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/lv_tlsf.c \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/lv_tlsf_private.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/lv_tlsf.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -25,18 +25,18 @@ lvgl/CMakeFiles/lvgl.dir/src/stdlib/builtin/lv_tlsf.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../osal/lv_os.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../osal/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../osal/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../osal/lv_os_none.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../stdlib/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_log.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_assert.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_log.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/../stdlib/lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/../stdlib/../misc/lv_types.h
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../osal/lv_os.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../osal/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../osal/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../osal/lv_os_none.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../stdlib/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_log.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_assert.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_log.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/../stdlib/lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/../stdlib/../misc/lv_types.h

@@ -1,14 +1,14 @@
 lvgl/CMakeFiles/lvgl.dir/src/others/monkey/lv_monkey.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/lv_monkey.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/lv_monkey_private.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/lv_monkey.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/lv_indev.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../core/lv_group.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../core/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../core/../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/lv_monkey.c \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/lv_monkey_private.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/lv_monkey.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/lv_indev.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../core/lv_group.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../core/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../core/../misc/../lv_conf_internal.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -27,16 +27,16 @@ lvgl/CMakeFiles/lvgl.dir/src/others/monkey/lv_monkey.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../core/../misc/lv_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_area.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_math.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_timer.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/../tick/lv_tick.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/../tick/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/../tick/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_event.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/monkey/../../indev/../misc/lv_array.h
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../core/../misc/lv_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../core/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_area.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_math.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_timer.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/../tick/lv_tick.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/../tick/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/../tick/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_event.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/monkey/../../indev/../misc/lv_array.h

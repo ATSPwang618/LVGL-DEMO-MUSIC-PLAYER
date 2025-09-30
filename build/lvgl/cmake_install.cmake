@@ -1,4 +1,4 @@
-# Install script for directory: /home/lb/vdpm/samples/sdl2/LVGL9/lvgl
+# Install script for directory: /home/lb/psv_lvgl9/lvgl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,74 +38,74 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE DIRECTORY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src" FILES_MATCHING REGEX "/[^/]*\\.h$" REGEX "/[^/]*\\_private\\.h$" EXCLUDE)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE DIRECTORY FILES "/home/lb/psv_lvgl9/lvgl/src" FILES_MATCHING REGEX "/[^/]*\\.h$" REGEX "/[^/]*\\_private\\.h$" EXCLUDE)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE FILE FILES
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lv_version.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lvgl.h"
+    "/home/lb/psv_lvgl9/lv_conf.h"
+    "/home/lb/psv_lvgl9/lvgl/lv_version.h"
+    "/home/lb/psv_lvgl9/lvgl/lvgl.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/build/lvgl/lib/liblvgl.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/psv_lvgl9/build/lvgl/lib/liblvgl.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE FILE FILES
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lv_version.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lvgl.h"
+    "/home/lb/psv_lvgl9/lv_conf.h"
+    "/home/lb/psv_lvgl9/lvgl/lv_version.h"
+    "/home/lb/psv_lvgl9/lvgl/lvgl.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pkgconfig" TYPE FILE FILES "/home/lb/vdpm/samples/sdl2/LVGL9/build/lvgl/lvgl.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/pkgconfig" TYPE FILE FILES "/home/lb/psv_lvgl9/build/lvgl/lvgl.pc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/build/lvgl/lib/liblvgl_thorvg.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/psv_lvgl9/build/lvgl/lib/liblvgl_thorvg.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE FILE FILES
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lv_version.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lvgl.h"
+    "/home/lb/psv_lvgl9/lv_conf.h"
+    "/home/lb/psv_lvgl9/lvgl/lv_version.h"
+    "/home/lb/psv_lvgl9/lvgl/lvgl.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE DIRECTORY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/demos" FILES_MATCHING REGEX "/[^/]*\\.h$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE DIRECTORY FILES "/home/lb/psv_lvgl9/lvgl/demos" FILES_MATCHING REGEX "/[^/]*\\.h$")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/build/lvgl/lib/liblvgl_demos.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/psv_lvgl9/build/lvgl/lib/liblvgl_demos.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE FILE FILES
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lv_version.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lvgl.h"
+    "/home/lb/psv_lvgl9/lv_conf.h"
+    "/home/lb/psv_lvgl9/lvgl/lv_version.h"
+    "/home/lb/psv_lvgl9/lvgl/lvgl.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE DIRECTORY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/examples" FILES_MATCHING REGEX "/[^/]*\\.h$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE DIRECTORY FILES "/home/lb/psv_lvgl9/lvgl/examples" FILES_MATCHING REGEX "/[^/]*\\.h$")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/vdpm/samples/sdl2/LVGL9/build/lvgl/lib/liblvgl_examples.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/lb/psv_lvgl9/build/lvgl/lib/liblvgl_examples.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/lvgl" TYPE FILE FILES
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lv_version.h"
-    "/home/lb/vdpm/samples/sdl2/LVGL9/lvgl/lvgl.h"
+    "/home/lb/psv_lvgl9/lv_conf.h"
+    "/home/lb/psv_lvgl9/lvgl/lv_version.h"
+    "/home/lb/psv_lvgl9/lvgl/lvgl.h"
     )
 endif()
 

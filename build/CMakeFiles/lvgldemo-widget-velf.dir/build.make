@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lb/vdpm/samples/sdl2/LVGL9
+CMAKE_SOURCE_DIR = /home/lb/psv_lvgl9
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lb/vdpm/samples/sdl2/LVGL9/build
+CMAKE_BINARY_DIR = /home/lb/psv_lvgl9/build
 
 # Utility rule file for lvgldemo-widget-velf.
 
@@ -67,8 +67,8 @@ include CMakeFiles/lvgldemo-widget-velf.dir/compiler_depend.make
 include CMakeFiles/lvgldemo-widget-velf.dir/progress.make
 
 CMakeFiles/lvgldemo-widget-velf: lvgldemo-widget
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Converting to Sony ELF lvgldemo-widget.velf"
-	/usr/local/vitasdk/bin/vita-elf-create /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.velf
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Converting to Sony ELF lvgldemo-widget.velf"
+	/usr/local/vitasdk/bin/vita-elf-create /home/lb/psv_lvgl9/build/lvgldemo-widget /home/lb/psv_lvgl9/build/lvgldemo-widget.velf
 
 lvgldemo-widget-velf: CMakeFiles/lvgldemo-widget-velf
 lvgldemo-widget-velf: CMakeFiles/lvgldemo-widget-velf.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/lvgldemo-widget-velf.dir/clean:
 .PHONY : CMakeFiles/lvgldemo-widget-velf.dir/clean
 
 CMakeFiles/lvgldemo-widget-velf.dir/depend:
-	cd /home/lb/vdpm/samples/sdl2/LVGL9/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lb/vdpm/samples/sdl2/LVGL9 /home/lb/vdpm/samples/sdl2/LVGL9 /home/lb/vdpm/samples/sdl2/LVGL9/build /home/lb/vdpm/samples/sdl2/LVGL9/build /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles/lvgldemo-widget-velf.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/lb/psv_lvgl9/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lb/psv_lvgl9 /home/lb/psv_lvgl9 /home/lb/psv_lvgl9/build /home/lb/psv_lvgl9/build /home/lb/psv_lvgl9/build/CMakeFiles/lvgldemo-widget-velf.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/lvgldemo-widget-velf.dir/depend
 

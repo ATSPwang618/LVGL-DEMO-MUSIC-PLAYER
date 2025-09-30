@@ -4,7 +4,7 @@
 # compile C with /usr/local/vitasdk/bin/arm-vita-eabi-gcc
 C_DEFINES = -DLV_CONF_INCLUDE_SIMPLE -DLV_KCONFIG_IGNORE -DLV_LVGL_H_INCLUDE_SIMPLE
 
-C_INCLUDES = -I/home/lb/vdpm/samples/sdl2/LVGL9/src -isystem /home/lb/vdpm/samples/sdl2/LVGL9/lvgl -isystem /home/lb/vdpm/samples/sdl2/LVGL9 -isystem /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/examples -isystem /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgl -isystem /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/demos
+C_INCLUDES = -I/home/lb/psv_lvgl9/src -isystem /home/lb/psv_lvgl9/lvgl -isystem /home/lb/psv_lvgl9 -isystem /home/lb/psv_lvgl9/lvgl/examples -isystem /home/lb/psv_lvgl9/build/lvgl -isystem /home/lb/psv_lvgl9/lvgl/demos
 
 C_FLAGS =  -Wl,-q -O0 -g -DDEBUG -D_DEBUG
 

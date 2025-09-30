@@ -1,12 +1,12 @@
 lvgl/CMakeFiles/lvgl.dir/src/others/xml/lv_xml_utils.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/lv_xml_utils.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/lv_xml_utils.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/../../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/../../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/../../stdlib/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/xml/../../stdlib/../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/lv_xml_utils.c \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/lv_xml_utils.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/../../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/../../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/../../stdlib/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/xml/../../stdlib/../misc/../lv_conf_internal.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \

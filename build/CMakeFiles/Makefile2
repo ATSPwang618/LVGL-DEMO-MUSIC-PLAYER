@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lb/vdpm/samples/sdl2/LVGL9
+CMAKE_SOURCE_DIR = /home/lb/psv_lvgl9
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lb/vdpm/samples/sdl2/LVGL9/build
+CMAKE_BINARY_DIR = /home/lb/psv_lvgl9/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -110,14 +110,14 @@ lvgl/clean: lvgl/CMakeFiles/lvgl_demos.dir/clean
 CMakeFiles/lvgldemo-widget.dir/all: lvgl/CMakeFiles/lvgl.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget.dir/build.make CMakeFiles/lvgldemo-widget.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget.dir/build.make CMakeFiles/lvgldemo-widget.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num= "Built target lvgldemo-widget"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num= "Built target lvgldemo-widget"
 .PHONY : CMakeFiles/lvgldemo-widget.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lvgldemo-widget.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 99
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 99
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lvgldemo-widget.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : CMakeFiles/lvgldemo-widget.dir/rule
 
 # Convenience name for target.
@@ -136,14 +136,14 @@ CMakeFiles/lvgldemo-widget.dir/clean:
 CMakeFiles/lvgldemo-widget-velf.dir/all: CMakeFiles/lvgldemo-widget.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget-velf.dir/build.make CMakeFiles/lvgldemo-widget-velf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget-velf.dir/build.make CMakeFiles/lvgldemo-widget-velf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num= "Built target lvgldemo-widget-velf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num= "Built target lvgldemo-widget-velf"
 .PHONY : CMakeFiles/lvgldemo-widget-velf.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lvgldemo-widget-velf.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 99
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 99
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lvgldemo-widget-velf.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : CMakeFiles/lvgldemo-widget-velf.dir/rule
 
 # Convenience name for target.
@@ -163,14 +163,14 @@ CMakeFiles/lvgldemo-widget.self-self.dir/all: CMakeFiles/lvgldemo-widget.dir/all
 CMakeFiles/lvgldemo-widget.self-self.dir/all: CMakeFiles/lvgldemo-widget-velf.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget.self-self.dir/build.make CMakeFiles/lvgldemo-widget.self-self.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget.self-self.dir/build.make CMakeFiles/lvgldemo-widget.self-self.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num= "Built target lvgldemo-widget.self-self"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num= "Built target lvgldemo-widget.self-self"
 .PHONY : CMakeFiles/lvgldemo-widget.self-self.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lvgldemo-widget.self-self.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 99
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 99
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lvgldemo-widget.self-self.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : CMakeFiles/lvgldemo-widget.self-self.dir/rule
 
 # Convenience name for target.
@@ -189,14 +189,14 @@ CMakeFiles/lvgldemo-widget.self-self.dir/clean:
 CMakeFiles/lvgldemo-widget.vpk-vpk.dir/all: CMakeFiles/lvgldemo-widget.self-self.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget.vpk-vpk.dir/build.make CMakeFiles/lvgldemo-widget.vpk-vpk.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lvgldemo-widget.vpk-vpk.dir/build.make CMakeFiles/lvgldemo-widget.vpk-vpk.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=100 "Built target lvgldemo-widget.vpk-vpk"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=100 "Built target lvgldemo-widget.vpk-vpk"
 .PHONY : CMakeFiles/lvgldemo-widget.vpk-vpk.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lvgldemo-widget.vpk-vpk.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 100
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 100
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lvgldemo-widget.vpk-vpk.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : CMakeFiles/lvgldemo-widget.vpk-vpk.dir/rule
 
 # Convenience name for target.
@@ -215,14 +215,14 @@ CMakeFiles/lvgldemo-widget.vpk-vpk.dir/clean:
 lvgl/CMakeFiles/lvgl.dir/all: lvgl/CMakeFiles/lvgl_thorvg.dir/all
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/depend
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl.dir/build.make lvgl/CMakeFiles/lvgl.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53 "Built target lvgl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53 "Built target lvgl"
 .PHONY : lvgl/CMakeFiles/lvgl.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 99
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 99
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl.dir/rule
 
 # Convenience name for target.
@@ -241,14 +241,14 @@ lvgl/CMakeFiles/lvgl.dir/clean:
 lvgl/CMakeFiles/lvgl_thorvg.dir/all: lvgl/CMakeFiles/lvgl_examples.dir/all
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/depend
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_thorvg.dir/build.make lvgl/CMakeFiles/lvgl_thorvg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=94,95,96,97,98,99 "Built target lvgl_thorvg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=94,95,96,97,98,99 "Built target lvgl_thorvg"
 .PHONY : lvgl/CMakeFiles/lvgl_thorvg.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl_thorvg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 46
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 46
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl_thorvg.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl_thorvg.dir/rule
 
 # Convenience name for target.
@@ -267,14 +267,14 @@ lvgl/CMakeFiles/lvgl_thorvg.dir/clean:
 lvgl/CMakeFiles/lvgl_examples.dir/all: lvgl/CMakeFiles/lvgl_demos.dir/all
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/depend
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_examples.dir/build.make lvgl/CMakeFiles/lvgl_examples.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93 "Built target lvgl_examples"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93 "Built target lvgl_examples"
 .PHONY : lvgl/CMakeFiles/lvgl_examples.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl_examples.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 40
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 40
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl_examples.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl_examples.dir/rule
 
 # Convenience name for target.
@@ -293,14 +293,14 @@ lvgl/CMakeFiles/lvgl_examples.dir/clean:
 lvgl/CMakeFiles/lvgl_demos.dir/all:
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/depend
 	$(MAKE) $(MAKESILENT) -f lvgl/CMakeFiles/lvgl_demos.dir/build.make lvgl/CMakeFiles/lvgl_demos.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=54,55,56,57,58,59,60,61,62,63 "Built target lvgl_demos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=54,55,56,57,58,59,60,61,62,63 "Built target lvgl_demos"
 .PHONY : lvgl/CMakeFiles/lvgl_demos.dir/all
 
 # Build rule for subdir invocation for target.
 lvgl/CMakeFiles/lvgl_demos.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 10
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 10
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lvgl/CMakeFiles/lvgl_demos.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lb/psv_lvgl9/build/CMakeFiles 0
 .PHONY : lvgl/CMakeFiles/lvgl_demos.dir/rule
 
 # Convenience name for target.

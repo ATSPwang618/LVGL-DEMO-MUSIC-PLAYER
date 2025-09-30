@@ -1,11 +1,11 @@
 lvgl/CMakeFiles/lvgl.dir/src/drivers/display/st7735/lv_st7735.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/lv_st7735.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/lv_st7735.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/lv_lcd_generic_mipi.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/lv_display.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/lv_st7735.c \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/lv_st7735.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/lv_lcd_generic_mipi.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/lv_display.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -24,23 +24,23 @@ lvgl/CMakeFiles/lvgl.dir/src/drivers/display/st7735/lv_st7735.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_timer.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../tick/lv_tick.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../tick/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../tick/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_event.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_array.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_color.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_assert.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_log.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_math.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_palette.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_color.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_color_op.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_area.h
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_timer.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../tick/lv_tick.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../tick/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../tick/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_event.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_array.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_color.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_assert.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_log.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/../stdlib/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_math.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_palette.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_color.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_color_op.h \
+ /home/lb/psv_lvgl9/lvgl/src/drivers/display/st7735/../lcd/../../../display/../misc/lv_area.h

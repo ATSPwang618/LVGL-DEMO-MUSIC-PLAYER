@@ -1,11 +1,11 @@
 lvgl/CMakeFiles/lvgl.dir/src/stdlib/uefi/lv_mem_core_uefi.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/uefi/lv_mem_core_uefi.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/uefi/../lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/uefi/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/uefi/../lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/uefi/../../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/uefi/../../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/uefi/lv_mem_core_uefi.c \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/uefi/../lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/uefi/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/uefi/../lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/uefi/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/uefi/../../misc/../lv_conf_internal.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \

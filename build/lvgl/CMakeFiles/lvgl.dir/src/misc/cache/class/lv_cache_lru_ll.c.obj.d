@@ -1,10 +1,10 @@
 lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_ll.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/lv_cache_lru_ll.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/lv_cache_lru_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../lv_cache_private.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/lv_cache_lru_ll.c \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/lv_cache_lru_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../lv_cache_private.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
@@ -23,19 +23,19 @@ lvgl/CMakeFiles/lvgl.dir/src/misc/cache/class/lv_cache_lru_ll.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../osal/lv_os_none.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../lv_cache_entry.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../stdlib/lv_sprintf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../stdlib/../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../stdlib/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_ll.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_iter.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_assert.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../lv_log.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../stdlib/lv_mem.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/lv_os.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../osal/lv_os_none.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../lv_cache_entry.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../stdlib/lv_sprintf.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../stdlib/../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../stdlib/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_ll.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_iter.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_assert.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../lv_log.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../stdlib/lv_mem.h \
+ /home/lb/psv_lvgl9/lvgl/src/misc/cache/class/../../../stdlib/lv_string.h

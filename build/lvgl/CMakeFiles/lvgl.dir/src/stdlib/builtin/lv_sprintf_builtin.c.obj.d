@@ -1,8 +1,8 @@
 lvgl/CMakeFiles/lvgl.dir/src/stdlib/builtin/lv_sprintf_builtin.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/lv_sprintf_builtin.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../lv_sprintf.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/lv_sprintf_builtin.c \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../lv_sprintf.h \
  /usr/local/vitasdk/arm-vita-eabi/include/inttypes.h \
  /usr/local/vitasdk/arm-vita-eabi/include/newlib.h \
  /usr/local/vitasdk/arm-vita-eabi/include/_newlib_version.h \
@@ -19,10 +19,10 @@ lvgl/CMakeFiles/lvgl.dir/src/stdlib/builtin/lv_sprintf_builtin.c.obj: \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stddef.h \
  /usr/local/vitasdk/arm-vita-eabi/include/sys/_locale.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/../lv_conf_internal.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdbool.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdarg.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../lv_string.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/stdlib/builtin/../../misc/lv_types.h
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../lv_string.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lvgl/src/stdlib/builtin/../../misc/lv_types.h

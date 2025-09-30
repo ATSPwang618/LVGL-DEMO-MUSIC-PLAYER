@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lb/vdpm/samples/sdl2/LVGL9
+CMAKE_SOURCE_DIR = /home/lb/psv_lvgl9
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lb/vdpm/samples/sdl2/LVGL9/build
+CMAKE_BINARY_DIR = /home/lb/psv_lvgl9/build
 
 # Utility rule file for lvgldemo-widget.vpk-vpk.
 
@@ -67,20 +67,20 @@ include CMakeFiles/lvgldemo-widget.vpk-vpk.dir/compiler_depend.make
 include CMakeFiles/lvgldemo-widget.vpk-vpk.dir/progress.make
 
 CMakeFiles/lvgldemo-widget.vpk-vpk: lvgldemo-widget.vpk.out
-	/usr/bin/cmake -E copy /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.vpk.out lvgldemo-widget.vpk
+	/usr/bin/cmake -E copy /home/lb/psv_lvgl9/build/lvgldemo-widget.vpk.out lvgldemo-widget.vpk
 
 lvgldemo-widget.vpk.out: lvgldemo-widget.vpk_param.sfo
 lvgldemo-widget.vpk.out: lvgldemo-widget.self
-lvgldemo-widget.vpk.out: /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/icon0.png
-lvgldemo-widget.vpk.out: /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/livearea/contents/bg.png
-lvgldemo-widget.vpk.out: /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/livearea/contents/startup.png
-lvgldemo-widget.vpk.out: /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/livearea/contents/template.xml
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building vpk lvgldemo-widget.vpk"
-	/usr/local/vitasdk/bin/vita-pack-vpk -a /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/icon0.png=sce_sys/icon0.png -a /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/livearea/contents/bg.png=sce_sys/livearea/contents/bg.png -a /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/livearea/contents/startup.png=sce_sys/livearea/contents/startup.png -a /home/lb/vdpm/samples/sdl2/LVGL9/sce_sys/livearea/contents/template.xml=sce_sys/livearea/contents/template.xml -s /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.vpk_param.sfo -b /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.self /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.vpk.out
+lvgldemo-widget.vpk.out: /home/lb/psv_lvgl9/sce_sys/icon0.png
+lvgldemo-widget.vpk.out: /home/lb/psv_lvgl9/sce_sys/livearea/contents/bg.png
+lvgldemo-widget.vpk.out: /home/lb/psv_lvgl9/sce_sys/livearea/contents/startup.png
+lvgldemo-widget.vpk.out: /home/lb/psv_lvgl9/sce_sys/livearea/contents/template.xml
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building vpk lvgldemo-widget.vpk"
+	/usr/local/vitasdk/bin/vita-pack-vpk -a /home/lb/psv_lvgl9/sce_sys/icon0.png=sce_sys/icon0.png -a /home/lb/psv_lvgl9/sce_sys/livearea/contents/bg.png=sce_sys/livearea/contents/bg.png -a /home/lb/psv_lvgl9/sce_sys/livearea/contents/startup.png=sce_sys/livearea/contents/startup.png -a /home/lb/psv_lvgl9/sce_sys/livearea/contents/template.xml=sce_sys/livearea/contents/template.xml -s /home/lb/psv_lvgl9/build/lvgldemo-widget.vpk_param.sfo -b /home/lb/psv_lvgl9/build/lvgldemo-widget.self /home/lb/psv_lvgl9/build/lvgldemo-widget.vpk.out
 
 lvgldemo-widget.vpk_param.sfo: lvgldemo-widget.self
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating param.sfo for lvgldemo-widget.vpk"
-	/usr/local/vitasdk/bin/vita-mksfoex -s APP_VER=01.00 -s TITLE_ID=VSDK00025 "LVGL Demo wiget" /home/lb/vdpm/samples/sdl2/LVGL9/build/lvgldemo-widget.vpk_param.sfo
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/lb/psv_lvgl9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating param.sfo for lvgldemo-widget.vpk"
+	/usr/local/vitasdk/bin/vita-mksfoex -s APP_VER=01.00 -s TITLE_ID=VSDK00025 "LVGL Demo wiget" /home/lb/psv_lvgl9/build/lvgldemo-widget.vpk_param.sfo
 
 lvgldemo-widget.vpk-vpk: CMakeFiles/lvgldemo-widget.vpk-vpk
 lvgldemo-widget.vpk-vpk: lvgldemo-widget.vpk.out
@@ -97,6 +97,6 @@ CMakeFiles/lvgldemo-widget.vpk-vpk.dir/clean:
 .PHONY : CMakeFiles/lvgldemo-widget.vpk-vpk.dir/clean
 
 CMakeFiles/lvgldemo-widget.vpk-vpk.dir/depend:
-	cd /home/lb/vdpm/samples/sdl2/LVGL9/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lb/vdpm/samples/sdl2/LVGL9 /home/lb/vdpm/samples/sdl2/LVGL9 /home/lb/vdpm/samples/sdl2/LVGL9/build /home/lb/vdpm/samples/sdl2/LVGL9/build /home/lb/vdpm/samples/sdl2/LVGL9/build/CMakeFiles/lvgldemo-widget.vpk-vpk.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/lb/psv_lvgl9/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lb/psv_lvgl9 /home/lb/psv_lvgl9 /home/lb/psv_lvgl9/build /home/lb/psv_lvgl9/build /home/lb/psv_lvgl9/build/CMakeFiles/lvgldemo-widget.vpk-vpk.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/lvgldemo-widget.vpk-vpk.dir/depend
 

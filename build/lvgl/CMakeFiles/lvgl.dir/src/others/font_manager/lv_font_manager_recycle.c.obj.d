@@ -1,9 +1,9 @@
 lvgl/CMakeFiles/lvgl.dir/src/others/font_manager/lv_font_manager_recycle.c.obj: \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/font_manager/lv_font_manager_recycle.c \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/font_manager/lv_font_manager_recycle.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/font_manager/../../misc/lv_types.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lvgl/src/others/font_manager/../../misc/../lv_conf_internal.h \
- /home/lb/vdpm/samples/sdl2/LVGL9/lv_conf.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/font_manager/lv_font_manager_recycle.c \
+ /home/lb/psv_lvgl9/lvgl/src/others/font_manager/lv_font_manager_recycle.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/font_manager/../../misc/lv_types.h \
+ /home/lb/psv_lvgl9/lvgl/src/others/font_manager/../../misc/../lv_conf_internal.h \
+ /home/lb/psv_lvgl9/lv_conf.h \
  /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.3.0/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
  /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
