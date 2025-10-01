@@ -1,4 +1,4 @@
-# psv_lvgl9
+# PSV-LVGL-DEMO MUSIC PLAYER
 
 #### 介绍
 LVGL 是最流行的免费开源嵌入式图形库，可为任何 MCU、MPU 和显示类型创建漂亮的 UI。 从消费电子产品到工业自动化，任何应用程序都可以利用 LVGL 的 30 多个内置小部件、100 多个样式属性、受网络启发的布局以及支持多种语言的排版系统。
@@ -25,8 +25,10 @@ LVGL 是最流行的免费开源嵌入式图形库，可为任何 MCU、MPU 和�
 
 #### 构建方法
 
-进入项目目录后
-mkdir -p build && cd build && cmake ..
-build && make -j$(nproc)
-
-生成文件在build目录下的为vpk格式
+```bash
+cd psv_lvgl9
+mkdir -p build
+cd build
+cmake ..
+make -j$(nproc)
+```

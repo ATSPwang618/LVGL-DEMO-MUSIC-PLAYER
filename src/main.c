@@ -8,6 +8,7 @@
 #include "../lvgl/lvgl.h"
 #include "../lvgl/src/drivers/sdl/lv_sdl_window.h"
 #include "../lvgl/examples/lv_examples.h"
+#include "../lvgl/demos/lv_demos.h"
 #include <SDL2/SDL.h>
 #include <stdio.h>
 
@@ -96,13 +97,9 @@ int main(int argc, char *argv[])
   /* 初始化LVGL和SDL */
   lvgl_sdl_init();
 
-  /* 在这里创建你的GUI对象 */
-  lv_obj_t *label = lv_label_create(lv_screen_active());
-  lv_label_set_text(label, "Hello, LVGL with SDL!");
-  lv_obj_align(label, LV_ALIGN_CENTER, 0, 0);
-  // lv_demo_stress();
-  // lv_demo_benchmark();
-  lv_demo_widgets();
+  /* 启动音乐播放器Demo */
+  lv_demo_music();
+  
   /* 运行主循环 */
   lvgl_mainloop();
 
