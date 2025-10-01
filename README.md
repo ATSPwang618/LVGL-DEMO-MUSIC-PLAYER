@@ -13,11 +13,17 @@
 1.暂时未使用GPU做渲染，仅使用SDL2渲染
 帧数偏低，但是我相信使用gxm渲染后帧数会大大提示！
 
+2.跑的只是一个demo，纯ui界面，没有集成 PSVita 音频 API (SceAudio)，也没有添加音频解码库（如 libvorbis, libmpg123 等）以及实现文件系统访问和音频文件读取，
+
+
 #### 安装教程
 
 1.sdk：https://vitasdk.org/
+
 2.环境搭建教程：https://www.bilibili.com/video/BV1KG41137iE/?spm_id_from=333.337.search-card.all.click
+
 3.演示 https://www.bilibili.com/video/BV1Vpnrz3Eig/?spm_id_from=333.1387.homepage.video_card.click
+
 
 #### 使用说明
 
